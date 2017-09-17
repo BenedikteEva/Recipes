@@ -1,0 +1,5 @@
+DatasourceSmallSteps\DataAccessObjectImpl.class
+DatasourceSmallSteps\Connector.class
+DatasourceSmallSteps\DataAccessObject.class
+Business\Steps.class
+Presentation\SmallStepsServlet.class
